@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NavigationDrawer-v2</string>
+    <string name="menu_home">home</string>
+    <string name="menu_games">games</string>
+    <string name="menu_search">search</string>
+    <string name="menu_share">share</string>
+    <string name="menu_send">send</string>
+    <string name="menu_tools">tools</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
